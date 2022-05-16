@@ -1,3 +1,9 @@
+pip install chatterbot
+pip install chatterbot_corpus
+
+pip install --upgrade chatterbot_corpus
+pip install --upgrade chatterbot
+
 # Importing chatterbot
 from chatterbot import ChatBot
 # Create object of ChatBot class
